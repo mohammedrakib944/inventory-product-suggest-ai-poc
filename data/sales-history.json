@@ -1,0 +1,52 @@
+[
+  {
+    "product_id": "PRD001",
+    "monthly_sales": [100, 110, 105, 115, 120],
+    "growth_rate": 4.8
+  },
+  {
+    "product_id": "PRD002",
+    "monthly_sales": [75, 78, 80, 82, 85],
+    "growth_rate": 3.2
+  },
+  {
+    "product_id": "PRD003",
+    "monthly_sales": [180, 185, 190, 195, 200],
+    "growth_rate": 2.7
+  },
+  {
+    "product_id": "PRD004",
+    "monthly_sales": [85, 88, 90, 92, 95],
+    "growth_rate": 2.8
+  },
+  {
+    "product_id": "PRD005",
+    "monthly_sales": [130, 135, 140, 145, 150],
+    "growth_rate": 3.7
+  },
+  {
+    "product_id": "PRD006",
+    "monthly_sales": [165, 170, 175, 177, 180],
+    "growth_rate": 2.2
+  },
+  {
+    "product_id": "PRD007",
+    "monthly_sales": [220, 230, 235, 240, 250],
+    "growth_rate": 3.2
+  },
+  {
+    "product_id": "PRD008",
+    "monthly_sales": [95, 100, 102, 105, 110],
+    "growth_rate": 3.7
+  },
+  {
+    "product_id": "PRD009",
+    "monthly_sales": [115, 118, 122, 125, 130],
+    "growth_rate": 3.1
+  },
+  {
+    "product_id": "PRD010",
+    "monthly_sales": [82, 85, 86, 88, 90],
+    "growth_rate": 2.3
+  }
+]
